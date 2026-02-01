@@ -1,4 +1,4 @@
-<img src="../../assets/images/pinterest_337277459605362845.jpg" width=192 height=192>
+<img src="../assets/images/pinterest_337277459605362845.jpg" width=192 height=192>
 
 Hello! I'm just another open source enjoyer who like fluffy creatures and `:3`
 
